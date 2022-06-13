@@ -1,0 +1,24 @@
+{
+    "name": "Quoc Lam",
+    "website": "quoclam.io",
+    "linkedin": "https://www.linkedin.com/in/lam-quoc/",
+    "github": "https://github.com/QuocLam-io",
+    "email": "LamQuoc.24@gmail.com",
+    "resume": "blub",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
